@@ -4,7 +4,7 @@
 
 <ol>
   <li>As I work on new JavaScript skills, I often hear/read/encounter new things that I don't understand.
-  <li>I'll add those questions to the <b>'Issues'</b> section of the repository
+  <li>I'll add those questions to the <b>'Issues'</b> section of the repository <a href="https://github.com/wijohnst/AnswerTheseQuestions/issues">here</a>
   <li>If you can answer a question, create a fork of the repo and answer it in a markdown file
   <li><i>Name your markdown file like this:</i>
                     [ issuenumber] .md
