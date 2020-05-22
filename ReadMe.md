@@ -7,6 +7,6 @@
   <li>I'll add those questions to the <b>'Issues'</b> section of the repository
   <li>If you can answer a question, create a fork of the repo and answer it in a markdown file
   <li><i>Name your markdown file like this:</i>
-    ```[issuenumber].md```
+                    [ issuenumber] .md
   <li> Submit a pull request with a message about which issue you are responding to
 </ol>
